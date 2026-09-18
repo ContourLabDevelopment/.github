@@ -4,7 +4,7 @@ We specialize in developing private **Minecraft mods**, **plugins**, and other *
 
 ## About Us
 
-At **One World Studio**, we bring your vision to life within the Minecraft universe. Whether you're looking to enhance your server with unique features, or you need custom plugins and mods to fit your community’s playstyle, we’ve got you covered. With extensive experience in modding, plugin development, and server solutions, we are your go-to partner for Minecraft-related projects.
+At **Contour Lab**, we bring your vision to life within the Minecraft universe. Whether you're looking to enhance your server with unique features, or you need custom plugins and mods to fit your community’s playstyle, we’ve got you covered. With extensive experience in modding, plugin development, and server solutions, we are your go-to partner for Minecraft-related projects.
 
 We focus on:
 
